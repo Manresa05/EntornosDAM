@@ -1,0 +1,10 @@
+git status
+
+git add .
+git commit -am "Comentario"
+git push origin [Nombre de la Rama]
+
+git branch -> Ver ramas y donde estas
+git branch [nombre de una Rama] -> Crear una rama
+
+git switch [Nombre de la rama] -> Cambiar de rama
